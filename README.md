@@ -191,7 +191,4 @@ New-MDTTaskSequence -Name "Windows 10 Enterprise Deployment" -Template "Standard
 
 ---
 
-## 📜 License
-
-MIT License – Free to use and adapt.
-
+..........................................................................................mchyasn......................................................
